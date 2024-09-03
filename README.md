@@ -1,7 +1,8 @@
 # GUI_Password_Generator
 
 The GUI Password Generator is a user-friendly desktop application designed to create strong, secure passwords. With a simple and intuitive interface, users can generate passwords with customized options to suit their security needs.
-![image](https://github.com/user-attachments/assets/ce4dfcd3-7a43-47b4-930c-b61719a3001b)
+![Screenshot (2)](https://github.com/user-attachments/assets/5908d606-bb21-4dec-8d07-60660d80669b)
+
 
 Key Features:
 Customizable Character Selection:
